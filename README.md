@@ -2,8 +2,6 @@
 
 # 🚗 Car Hub — Full-Stack Car Rental Platform
 
-<img src="https://via.placeholder.com/1200x600/0f172a/38bdf8?text=Car+Hub+Preview" alt="Car Hub Preview" width="800"/>
-
 <br/><br/>
 
 Modern car rental system built with **MERN** stack  
@@ -13,9 +11,7 @@ Google OAuth • Admin Dashboard • Real-time Booking • Responsive UI
 
 ## 🌐 Live Demo
 
-**User Site**: https://your-frontend-name.vercel.app  
-**Admin Panel**: https://your-admin-name.vercel.app  
-**API Backend**: https://your-backend-name.vercel.app
+**User Site**: rent-a-car-frontend-private.vercel.app 
 
 </div>
 
