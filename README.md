@@ -1,48 +1,42 @@
-# 🚗 Rent-a-Car — Full-Stack Car Rental Platform
+<div align="center">
 
-Modern car rental application built with **MERN** stack (MongoDB, Express, React + Vite, Node.js).  
-Features user authentication (including Google OAuth), admin dashboard, responsive UI, and smooth booking flow.
+# 🚗 Car Hub — Full-Stack Car Rental Platform
 
+<img src="https://via.placeholder.com/1200x600/0f172a/38bdf8?text=Car+Hub+Preview" alt="Car Hub Preview" width="800"/>
+
+<br/><br/>
+
+Modern car rental system built with **MERN** stack  
+Google OAuth • Admin Dashboard • Real-time Booking • Responsive UI
+
+<br/><br/>
+
+## 🌐 Live Demo
+
+**User Site**: https://your-frontend-name.vercel.app  
+**Admin Panel**: https://your-admin-name.vercel.app  
+**API Backend**: https://your-backend-name.vercel.app
+
+</div>
+
+<br/>
 
 ## ✨ Features
 
-### User Side
-- Browse & filter cars by brand, price, type
-- Detailed car view with images & specs
-- Book cars with date picker & real-time availability
-- User profile + booking history
-
-### Admin Dashboard
-- CRUD for cars (add/edit/delete/upload images)
-- Manage bookings (approve/reject/update status)
-- View all users & bookings overview
+- Browse & filter cars (brand • price • type • availability)
+- Detailed car view + booking with date picker
+- Secure login (email + Google OAuth)
+- Full Admin Panel (CRUD cars • manage bookings • users)
 - Responsive + dark mode support
-
-### Tech Highlights
-- Google OAuth login
-- JWT authentication
-- Zod form validation
-- Tailwind CSS + shadcn/ui (or your UI choice)
-- Axios API calls
 
 ## 🛠 Tech Stack
 
-**Frontend**  
-- React 18 + Vite  
-- React Router v6  
-- Tailwind CSS  
-- Axios / React Hook Form / Zod  
+- Frontend: React + Vite + Tailwind CSS
+- Backend: Node.js + Express + MongoDB
+- Auth: JWT + Google OAuth
 
-**Backend**  
-- Node.js + Express  
-- MongoDB + Mongoose  
-- JWT + bcrypt  
-- Google OAuth 2.0  
+<br/>
 
-## 🚀 Quick Setup
-
-### Prerequisites
-- Node.js ≥ 18
-- MongoDB (local or Atlas)
-- Google OAuth Client ID & Secret
-
+<div align="center">
+  Made with ❤️ • 2026
+</div>
