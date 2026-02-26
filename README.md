@@ -55,4 +55,8 @@ Features user authentication (including Google OAuth), admin dashboard, responsi
 
 **User Site**: rent-a-car-frontend-private.vercel.app 
 
+## 🌐 Admin Live Demo
+
+**User Site**: rentacar-admin.vercel.app 
+
 </div>
